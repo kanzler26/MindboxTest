@@ -1,0 +1,12 @@
+C:\Users\Artur\source\repos\MindboxTest\Mindbox.LibraryShapes\bin\Debug\net7.0\Mindbox.LibraryShapes.deps.json
+C:\Users\Artur\source\repos\MindboxTest\Mindbox.LibraryShapes\bin\Debug\net7.0\Mindbox.LibraryShapes.dll
+C:\Users\Artur\source\repos\MindboxTest\Mindbox.LibraryShapes\bin\Debug\net7.0\Mindbox.LibraryShapes.pdb
+C:\Users\Artur\source\repos\MindboxTest\Mindbox.LibraryShapes\obj\Debug\net7.0\Mindbox.LibraryShapes.csproj.AssemblyReference.cache
+C:\Users\Artur\source\repos\MindboxTest\Mindbox.LibraryShapes\obj\Debug\net7.0\Mindbox.LibraryShapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artur\source\repos\MindboxTest\Mindbox.LibraryShapes\obj\Debug\net7.0\Mindbox.LibraryShapes.AssemblyInfoInputs.cache
+C:\Users\Artur\source\repos\MindboxTest\Mindbox.LibraryShapes\obj\Debug\net7.0\Mindbox.LibraryShapes.AssemblyInfo.cs
+C:\Users\Artur\source\repos\MindboxTest\Mindbox.LibraryShapes\obj\Debug\net7.0\Mindbox.LibraryShapes.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\MindboxTest\Mindbox.LibraryShapes\obj\Debug\net7.0\Mindbox.LibraryShapes.dll
+C:\Users\Artur\source\repos\MindboxTest\Mindbox.LibraryShapes\obj\Debug\net7.0\refint\Mindbox.LibraryShapes.dll
+C:\Users\Artur\source\repos\MindboxTest\Mindbox.LibraryShapes\obj\Debug\net7.0\Mindbox.LibraryShapes.pdb
+C:\Users\Artur\source\repos\MindboxTest\Mindbox.LibraryShapes\obj\Debug\net7.0\ref\Mindbox.LibraryShapes.dll
